@@ -42,7 +42,8 @@ typedef struct {
 				} juego_t;
 #endif
 
-#define MAX_ARGC 2
+#define MAX_ARGC_CREAR_BASE 3
 #define BASE 10
+#define DELIMITADOR ','
 
 
